@@ -1,4 +1,4 @@
-package com.example.s25168312;
+package com.example;
 
 
 import android.os.Bundle;
@@ -10,7 +10,6 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
- * Student: 25168312
  * Purpose: Update admin screen for emergency contact and message
  */
 public class UpdateActivity extends AppCompatActivity {
