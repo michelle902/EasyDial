@@ -13,7 +13,6 @@ import java.util.Calendar;
 import java.util.List;
 
 /**
- * Student: 25168312
  * Purpose: Simple calendar to add events and schedule reminders 24hrs and 1hr before
  */
 public class CalendarActivity extends AppCompatActivity {
