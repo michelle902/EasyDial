@@ -1,4 +1,4 @@
-package com.example.s25168312;
+package com.example;
 
 
 import android.content.BroadcastReceiver;
