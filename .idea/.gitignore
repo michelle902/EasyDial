@@ -1,3 +1,13 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Gradle files
+.gradle/
+build/
+
+# Local configuration
+/local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# APK files
+*.apk
