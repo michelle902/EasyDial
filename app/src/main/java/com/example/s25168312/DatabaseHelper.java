@@ -1,4 +1,4 @@
-package com.example.s25168312;
+package com.example;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -9,7 +9,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Student number: 25168312
  * Purpose: store emergency contact/message and calendar events for Telephone App for the Elderly
  */
 public class DatabaseHelper extends SQLiteOpenHelper {
